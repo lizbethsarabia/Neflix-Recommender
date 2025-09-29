@@ -5,7 +5,7 @@ Designed to showcase **data science, API integration, and web app development sk
 
 ---
 
-##Project Structure
+## Project Structure
 
 ```bash
 my_project/
