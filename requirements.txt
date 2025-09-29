@@ -3,4 +3,5 @@ pandas
 matplotlib
 requests
 python-dotenv
-sklearn
+scikit-learn
+
