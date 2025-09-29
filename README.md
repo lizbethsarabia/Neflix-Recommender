@@ -51,6 +51,11 @@ my_project/
 
 ## How to Run
 
+### Website Link
+https://neflix-recommender-liz.streamlit.app/
+
+### OR
+
 ### Clone the Repository
 ```bash
 git clone https://github.com/lizbethsarabia/Netflix-Recommender.git
