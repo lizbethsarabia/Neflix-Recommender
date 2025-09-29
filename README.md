@@ -7,6 +7,7 @@ Designed to showcase **data science, API integration, and web app development sk
 
 ##Project Structure
 
+```bash
 my_project/
 ├─ streamlit_app.py                       # Main Streamlit app
 ├─ netflix_recommendations.ipynb          # exploration notebook
@@ -15,7 +16,7 @@ my_project/
 ├─ requirements.txt                       # Python dependencies
 ├─ .gitignore                             # Ignore .env and cache files
 └─ README.md                              # Project description
-
+```
 --- 
 
 ## Project Highlights
