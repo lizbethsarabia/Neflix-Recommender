@@ -53,8 +53,8 @@ my_project/
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/yourrepo.git
-cd yourrepo
+git clone https://github.com/lizbethsarabia/Netflix-Recommender.git
+cd Netflix-Recommender
 
 pip install -r requirements.txt
 
