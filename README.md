@@ -60,7 +60,7 @@ pip install -r requirements.txt
 
 ```
 
-###Set up TMDb API Key
+### Set up TMDb API Key
 Locally: Create .env in project root:
 
 ```bash
@@ -68,7 +68,7 @@ TMDB_API_KEY=your_api_key_here
 ```
 Streamlit Cloud: Add TMDB_API_KEY in Settings → Secrets.
 
-###Run app locally
+### Run app locally
 
 ```bash
 streamlit run streamlit_app.py
