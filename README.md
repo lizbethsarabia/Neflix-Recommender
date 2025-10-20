@@ -1,8 +1,4 @@
 # Netflix-Style Movie & TV Show Recommender
-
-A sleek, interactive movie and TV show recommender built with **Streamlit**, **Python**, and the **TMDb API**.
-Designed to showcase **data science, API integration, and web app development skills** in a polished, Netflix-like interface.
-
 ---
 
 ## Project Structure
