@@ -48,7 +48,7 @@ my_project/
 ## How to Run
 
 ### Website Link
-https://neflix-recommender-liz.streamlit.app/
+https://show-recommender-liz.streamlit.app/
 
 ### OR
 
